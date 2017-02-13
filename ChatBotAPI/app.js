@@ -58,7 +58,7 @@ const sessionIds = new Map();
 
 // Index route
 app.get('/', function (req, res) {
-	res.send('Hello world, I am a chat bot')
+	res.send('Hola mundo, soy el chatbot UEES-MEDIAPLUS')
 })
 
 // for Facebook verification
